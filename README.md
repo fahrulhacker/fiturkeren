@@ -16,7 +16,7 @@
 > **use wisely**
 
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-AmmarBN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-FahrulAM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nurutomo/wabot-aq?label=Watchers&color=blue&style=flat-square"></a>
@@ -56,7 +56,7 @@
 
 ## Start Project
 ```shell script
--git clone https://github.com/AmmarBN/Fitur-7-v1.2.0
+-git clone https://github.com/fahrulhacker/fiturkeren
 ```
 
 ```shell script
@@ -174,5 +174,5 @@ Nomor : You Phone Number
 THX To ©FahrulAM
 
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-AmmarBN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-FahrulAM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
