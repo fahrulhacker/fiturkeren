@@ -87,44 +87,6 @@ Nomor : You Phone Number
 > **Password : Alam**
 
 
-
-
-## Creator/Owner
-```shell script
-##~>FahrulAM
-```
-
-```shell script
-##~>
-```
-
-```shell script
-##~>
-```
-
-```shell script
-##~>
-```
-
-## Note
-> **it is forbidden to recode this script, if you are cought recode script, you will get spam from the script creators, so if you want to recoderecode, have permission first**
-
-<p align="center">
-
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Author Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-
-
-
-
-* [`Click Here`](-)
-
-
-
-> **This is script generator number, namely ©AmmarBN**
-
 ## Features
 
 > **•CCTV IP**
@@ -142,12 +104,6 @@ Nomor : You Phone Number
 > **•install Hollywood & cmatrix**
 
 > **•Google Translate**
-
-## Contributors
-
----------
-
-<a href="https://github.com/AmmarBN"><img src="https://github.com/AmmarBN.png" width="100" height="100"></a>  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)  [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)  [![SpeedX](https://github.com/TheSpeedX.png?size=100)](https://github.com/TheSpeedX)
 
 ----|----|----|---- 
 
